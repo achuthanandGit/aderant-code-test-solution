@@ -1,0 +1,1 @@
+Shortest Common String using Brute Force is: check writing data to file
