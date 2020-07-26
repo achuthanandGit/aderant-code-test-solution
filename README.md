@@ -1,6 +1,6 @@
 # Aderant Code Test Solution
 
-This repository consists of 2 solutions to the problem [description] (https://github.com/achuthanandGit/aderant-code-test-solution/blob/master/Aderant%20Coding%20Test%20v2.docx)
+This repository consists of 2 solutions to the problem [description](https://github.com/achuthanandGit/aderant-code-test-solution/blob/master/Aderant%20Coding%20Test%20v2.docx)
 
     1. Using Brute Force method
     2. Using Greedy method
