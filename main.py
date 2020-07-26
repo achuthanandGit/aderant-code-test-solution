@@ -58,4 +58,4 @@ def get_data(file):
         print("Unexpected error while reading file: ", sys.exc_info()[0])
         find_shortest_common_string(get_data())
 
-#find_shortest_common_string(get_data("input_file.txt"))
+find_shortest_common_string(get_data("input_file.txt"))

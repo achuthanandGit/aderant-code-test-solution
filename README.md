@@ -34,3 +34,5 @@ Test folder contains the script to run all necessary unit tests.
 unit_test_file.txt will have the test input data for the unit tests.
 
 Execute unit_test.py script to see the unit test results.
+
+    Please comment line 61 in main.py before running Unit Test
